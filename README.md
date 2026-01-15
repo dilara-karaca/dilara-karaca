@@ -9,21 +9,32 @@
   />
 </p>
 <p align="center">
-  🎓 Computer Engineering Student | Learning Frontend, Backend & Mobile Development
+  Computer Engineering Student | Learning Full-Stack Development
 </p>
 
 <h2 align="center"> About Me</h2>
 
-<p align="center">
-  Hi, I’m <b>Dilara Karaca</b>, a Computer Engineering student studying in English.<br>
-  I am actively learning and practicing <b>frontend, backend, and mobile application development</b>
-  through academic projects, research-based work, and internships.
+<div style="max-width: 640px; margin: 32px auto 0 auto;">
+
+<p>
+I am actively learning and practicing <b>mobile application development</b>,
+<b>artificial intelligence</b>, and <b>database technologies</b> through academic
+and real-world projects.
 </p>
 
-<p align="center">
-  I enjoy building user interfaces, developing application logic, and understanding how systems
-  work end-to-end. I focus on improving myself by working on real-world projects and continuously
-  learning new technologies.
+<p>
+I enjoy building <b>user interfaces</b>, developing <b>application logic</b>, and
+understanding how systems work end-to-end. I focus on improving myself by working
+on real-world projects and continuously learning new technologies.
 </p>
+
+<p>
+📫 <b>How to reach me:</b> dilarakaracad@gmail.com
+</p>
+
+</div>
+
+
+
 
 
