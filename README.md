@@ -8,3 +8,19 @@
     alt="Typing SVG"
   />
 </p>
+<p align="center">
+  🎓 Computer Engineering Student | Learning Frontend, Backend & Mobile Development
+</p>
+
+---
+
+## About Me
+
+Hi, I’m **Dilara Karaca**, a Computer Engineering student studying in English.  
+I am actively learning and practicing **frontend, backend, and mobile application development**
+through academic projects, research-based work, and internships.
+
+I enjoy building user interfaces, developing application logic, and understanding how systems
+work end-to-end. I focus on improving myself by working on real-world projects and continuously
+learning new technologies.
+
