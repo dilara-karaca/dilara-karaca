@@ -12,15 +12,18 @@
   🎓 Computer Engineering Student | Learning Frontend, Backend & Mobile Development
 </p>
 
----
+<h2 align="center">👩‍💻 About Me</h2>
 
-## About Me
+<p align="center">
+  Hi, I’m <b>Dilara Karaca</b>, a Computer Engineering student studying in English.<br>
+  I am actively learning and practicing <b>frontend, backend, and mobile application development</b>
+  through academic projects, research-based work, and internships.
+</p>
 
-Hi, I’m **Dilara Karaca**, a Computer Engineering student studying in English.  
-I am actively learning and practicing **frontend, backend, and mobile application development**
-through academic projects, research-based work, and internships.
+<p align="center">
+  I enjoy building user interfaces, developing application logic, and understanding how systems
+  work end-to-end. I focus on improving myself by working on real-world projects and continuously
+  learning new technologies.
+</p>
 
-I enjoy building user interfaces, developing application logic, and understanding how systems
-work end-to-end. I focus on improving myself by working on real-world projects and continuously
-learning new technologies.
 
