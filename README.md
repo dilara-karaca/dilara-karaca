@@ -12,7 +12,7 @@
   🎓 Computer Engineering Student | Learning Frontend, Backend & Mobile Development
 </p>
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <p align="center">
   Hi, I’m <b>Dilara Karaca</b>, a Computer Engineering student studying in English.<br>
