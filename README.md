@@ -34,7 +34,7 @@ on real-world projects and continuously learning new technologies.
 
 </div>
 
-## 🌐 Connect with me
+## Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dilarakaraca34/" target="_blank">
