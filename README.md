@@ -38,16 +38,13 @@ on real-world projects and continuously learning new technologies.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dilarakaraca34/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+
+  <a href="https://dilara-karaca.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox-browser&logoColor=bb86fc"/>
   </a>
 </p>
-
-<p align="left">
-  <a href="https://https://dilara-karaca.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-purple?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
 ## Languages and Tools
 
 <p align="left">
