@@ -42,6 +42,12 @@ on real-world projects and continuously learning new technologies.
   </a>
 </p>
 
+<p align="left">
+  <a href="https://https://dilara-karaca.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-purple?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
 ## Languages and Tools
 
 <p align="left">
