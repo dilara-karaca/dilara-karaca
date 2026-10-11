@@ -29,7 +29,7 @@ on real-world projects and continuously learning new technologies.
 </p>
 
 <p>
-📫 <b>How to reach me:</b> dilarakaracad@gmail.com
+📫 <b>If you want to collaborate, build something together, or just say hi:</b> dilarakaracad@gmail.com
 </p>
 
 </div>
