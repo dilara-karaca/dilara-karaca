@@ -9,7 +9,7 @@
   />
 </p>
 <p align="center">
-  Computer Engineering Student | Learning Full-Stack Development
+  Computer Engineering Student | Full-Stack Development
 </p>
 
 <h2 align="center"> About Me</h2>
