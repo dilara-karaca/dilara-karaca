@@ -41,7 +41,7 @@ on real-world projects and continuously learning new technologies.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://dilara-karaca.netlify.app/" target="_blank">
+  <a href="https://dilara-karaca.github.io/my-portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-BB86FC?style=for-the-badge"/>
   </a>
 </p>
